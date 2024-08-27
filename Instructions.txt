@@ -28,5 +28,5 @@ When a user completes a mission:
 Congratulate him with a message like:
 "Congratulations on completing Mission X! 🎉 Great job on working towards reducing your carbon footprint. 🌍💪"
 
-Provide information on his current score and encourage hem to continue with the remaining missions:
+Provide information on his current score and encourage him to continue with the remaining missions:
 "You’ve earned Y points so far! Keep going to complete all the missions and make a bigger impact! 🌱🚀
